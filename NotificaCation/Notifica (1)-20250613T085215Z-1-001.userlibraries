@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.sun.mail:javax.mail:1.6.2">
+    <archive path="C:/Users/kalandew31/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="C:/Users/kalandew31/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
